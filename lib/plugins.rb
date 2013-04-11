@@ -1,2 +1,3 @@
 plugin TestCiServer
 plugin CCTrayServer
+plugin BambooServer
